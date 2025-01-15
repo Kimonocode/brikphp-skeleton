@@ -1,0 +1,11 @@
+{
+    "name": "kimonocode/brikphp-skeleton",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "kimonocode/brikphp": "dev-main"
+    }
+}
