@@ -1,5 +1,6 @@
 {
     "name": "kimonocode/brikphp-skeleton",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
