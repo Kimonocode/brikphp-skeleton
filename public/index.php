@@ -1,7 +1,7 @@
 <?php
 
-use GuzzleHttp\Psr7\Response;
 use Brikphp\Core\App;
+use Brikphp\Http\Response;
 
 require dirname(__DIR__) . '/vendor/autoload.php';
 
